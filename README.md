@@ -1,6 +1,6 @@
 # 📊 Hindi Authorship Attribution Dataset
 
-A curated dataset for multi-author Hindi authorship attribution and stylometric analysis, designed to support advanced research in Natural Language Processing (NLP) for low-resource languages.
+A curated dataset for multi-author Hindi authorship attribution, designed to support research in Natural Language Processing (NLP) for low-resource languages.
 
 ---
 
