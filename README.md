@@ -25,6 +25,22 @@ Each row represents a paired textual sample:
 
 ---
 
+## 🔍 Dataset Preview
+
+Below are sample entries from the dataset:
+
+
+| Author        | Story (Excerpt)                                      | Poem (Excerpt)                                  |
+|--------------|------------------------------------------------------|--------------------------------------------------|
+| Premchand    | यह कहानी एक साधारण किसान के जीवन संघर्ष से शुरू होती है... | जीवन की राहों में कठिनाइयाँ आती जाती हैं...      |
+| Mahadevi Verma | उसने धीरे से खिड़की खोली और बाहर देखा...             | मैं नीर भरी दुःख की बदली...                      |
+| Harivansh Rai Bachchan | गाँव की गलियों में बचपन की यादें बसी थीं... | अग्निपथ! अग्निपथ! अग्निपथ!...                   |
+| Nirala       | वह पेड़ के नीचे बैठा कुछ सोच रहा था...               | वह तोड़ती पत्थर...                              |
+
+*Note: Text excerpts are truncated for display purposes.*
+
+---
+
 ## 🔒 Dataset Access
 
 This dataset is not publicly downloadable to ensure ethical usage and compliance with copyright constraints.
